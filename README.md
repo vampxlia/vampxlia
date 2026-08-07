@@ -130,12 +130,12 @@ and technology.
 │                                                             │
 │  NOW EXPLORING                                              │
 │                                                             │
-│  ████████████████████░░  Full-Stack Development             │
+│  ██████████████████████  Full-Stack Development             │
 │  ████████████████░░░░░░  Backend Architecture               │
 │  ██████████████░░░░░░░░  Mobile Development                 │
-│  ████████████░░░░░░░░░░  Game Development                   │
-│  ██████████░░░░░░░░░░░░  Embedded / Arduino                 │
-│  ████████░░░░░░░░░░░░░░  Digital Art & 3D                   │
+│  ████████████░░░░░░░░░░  Game Development                   │                │
+│  ████████░░░░░░░░░░░░░░  Embedded Systems / Arduino         │         
+│  ██████████░░░░░░░░░░░░  Digital Art & 3D                   │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```

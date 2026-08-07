@@ -123,33 +123,6 @@ and technology.
 
 ---
 
-## `~/projects`
-
-> A few things I've built along the way.
-
-<!--
-╭─────────────────────────────────────────────────────────────╮
-│                                                             │
-│  Replace these with your strongest public projects.         │
-│                                                             │
-│  ### `01` — Project Name                                    │
-│  Short description                                          │
-│  `TypeScript` `Node.js` `Docker`                            │
-│                                                             │
-│  ### `02` — Project Name                                    │
-│  Short description                                          │
-│  `Java` `Spring` `MySQL`                                    │
-│                                                             │
-╰─────────────────────────────────────────────────────────────╯
--->
-
-### `01` — More projects coming
-
-I'm continually building, experimenting and turning coursework,
-ideas and random "what if?" moments into projects.
-
----
-
 ## `~/learning`
 
 ```text

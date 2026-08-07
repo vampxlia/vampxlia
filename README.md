@@ -1,124 +1,226 @@
-# Hi, I'm Emiliana 👋
+
+<div align="center">
+
+# `emiliana.dev`
 
 ### Software Engineer · Digital Artist · Full-Stack Developer
 
-> I like making software feel a little more like art.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+software+as+a+creative+medium.;Full-stack+developer+%7C+Problem+solver;Turning+ideas+into+things+that+work.;Currently+looking+for+my+next+opportunity." alt="Typing SVG" />
 
-I'm a recent **Informatics and Multimedia Engineering** graduate with a passion
-for building software across the stack — from backend systems and web
-applications to mobile apps and games.
+<br>
 
-I'm currently looking for my first professional opportunity as a software
-engineer, while continuing to learn, experiment, and build things that
-interest me.
+[![GitHub](https://img.shields.io/badge/GitHub-vampxlia-181717?style=for-the-badge&logo=github)](https://github.com/vampxlia)
+
+</div>
 
 ---
 
-## 🛠️ Technologies & Tools
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   $ whoami                                                   │
+│                                                              │
+│   emiliana                                                   │
+│   software engineer + digital artist                         │
+│                                                              │
+│   > building software as a form of expression                │
+│   > learning by making                                       │
+│   > currently looking for a place to build cool things       │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+````
+
+## `~/about`
+
+I'm **Emiliana**, a recent **Informatics and Multimedia Engineering**
+graduate and aspiring Software Engineer.
+
+I enjoy working across the stack and moving between different kinds of
+problems — from designing backend systems and web applications to building
+mobile experiences and experimenting with game development.
+
+What I enjoy most about software is the creative process behind it:
+
+**idea → design → implementation → experimentation → something that works**
+
+I'm currently looking for my first professional opportunity where I can
+keep learning, contribute to real projects, and grow alongside other
+developers.
+
+---
+
+## `~/focus`
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚙️ Full-Stack Development
+
+Building applications from database to interface, with a particular
+interest in backend architecture, APIs and the systems that make
+applications work.
+
+</td>
+<td width="50%">
+
+### 🎮 Creative Development
+
+Web, mobile and game development are all interesting to me for different
+reasons — especially when technology becomes a medium for creativity.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔌 Hardware
+
+Arduino started as a university class and quickly became something I
+genuinely enjoyed. I like the idea of software escaping the screen and
+interacting with the physical world.
+
+</td>
+<td width="50%">
+
+### 🎨 Digital Art
+
+Drawing and 3D modelling are my creative outlets. I enjoy experimenting
+with digital art and exploring the intersection between visual creativity
+and technology.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `~/toolbox`
 
 ### Languages
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" alt="C#" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" alt="PHP" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+<p>
+<img src="https://skillicons.dev/icons?i=cs,java,js,kotlin,php,py,ts" />
 </p>
 
-### Frameworks & Tools
+### Development
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" alt="Express" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" alt="Spring" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="40" alt="Unity" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" alt="Arduino" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="40" alt="Blender" />
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,docker,html,css" />
+</p>
+
+### Data & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github" />
+</p>
+
+### Creative & Experimental
+
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,blender,unity" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## `~/projects`
 
-> A selection of projects I've built while studying, experimenting, and
-> learning new technologies.
+> A few things I've built along the way.
 
 <!--
-Add your strongest public projects here.
-
-### [Project Name](https://github.com/vampxlia/PROJECT)
-
-Short description of what it does and why you built it.
-
-**Tech:** `TypeScript` `Node.js` `React` `Docker`
-
----
+╭─────────────────────────────────────────────────────────────╮
+│                                                             │
+│  Replace these with your strongest public projects.         │
+│                                                             │
+│  ### `01` — Project Name                                    │
+│  Short description                                          │
+│  `TypeScript` `Node.js` `Docker`                            │
+│                                                             │
+│  ### `02` — Project Name                                    │
+│  Short description                                          │
+│  `Java` `Spring` `MySQL`                                    │
+│                                                             │
+╰─────────────────────────────────────────────────────────────╯
 -->
 
-More projects coming as I continue building and experimenting.
+### `01` — More projects coming
+
+I'm continually building, experimenting and turning coursework,
+ideas and random "what if?" moments into projects.
 
 ---
 
-## 🌱 Currently Learning
+## `~/learning`
 
-I'm using this space not only as a portfolio, but also as a record of my
-growth as a developer.
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  NOW EXPLORING                                              │
+│                                                             │
+│  ████████████████████░░  Full-Stack Development             │
+│  ████████████████░░░░░░  Backend Architecture               │
+│  ██████████████░░░░░░░░  Mobile Development                 │
+│  ████████████░░░░░░░░░░  Game Development                   │
+│  ██████████░░░░░░░░░░░░  Embedded / Arduino                 │
+│  ████████░░░░░░░░░░░░░░  Digital Art & 3D                   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
-Some things I'm currently interested in exploring:
+I like learning by **building rather than just reading**.
 
-- 🏗️ Building better full-stack applications
-- ⚙️ Backend architecture and system design
-- 📱 Mobile development
-- 🎮 Game development
-- 🔌 Embedded systems and Arduino projects
-- 🎨 Combining software with digital art
-- 🧠 Learning new technologies by building things with them
+This profile doubles as a record of that process — the things I build,
+the technologies I experiment with, and the problems I learn to solve.
 
 ---
 
-## 🎨 Beyond Code
+## `~/outside-the-terminal`
 
-I don't really separate my technical and creative interests.
+```text
+       ╭───────────────╮
+       │   OFFLINE     │
+       ╰───────────────╯
 
-I enjoy **drawing and 3D modelling**, experimenting with **Blender**, tinkering
-with **Arduino**, playing games, and learning guitar.
+       🎨  drawing
+       🧊  3D modelling
+       🔌  Arduino
+       🎮  gaming
+```
+
+I spend a lot of my free time making things that have nothing to do with
+software.
+
+Which, ironically, usually ends up giving me ideas for software.
+
+---
+
+## `~/philosophy`
+
+<div align="center">
+
+### *"Software is a medium."*
+
+I want to use it creatively.
+
+</div>
 
 For me, programming is another creative medium. I enjoy the process of taking
 an idea that exists only in my head and turning it into something that
 actually works.
 
-> **Software is a medium. I want to use it creatively.**
-
 ---
 
-## 🧑‍💻 Fun Facts About me
+<div align="center">
 
-- 🎓 Recently graduated in **Informatics and Multimedia Engineering**
-- 💻 Interested in **full-stack development**, with a particular love for backend
-  systems
-- 🌱 Always learning something new and documenting the journey along the way
-- 🎨 Digital artist with an interest in **illustration and 3D modelling**
-- 🔌 Fell in love with **Arduino** during university and still enjoy tinkering
-  with hardware
-- 🎮 Gamer and occasional game developer
-- ✨ Interested in exploring the intersection between **technology and art**
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│       BUILD  ·  LEARN  ·  EXPERIMENT       │
+│                                             │
+└─────────────────────────────────────────────┘
+```
 
----
+**Thanks for visiting.**
 
-## 📈 GitHub
+</div>
 
-I use GitHub as both a portfolio and a personal development log — a place to
-experiment, build projects, and keep track of how my skills evolve over time.
-
----
-
-<p align="center">
-  <i>Thanks for stopping by!</i>
-</p>

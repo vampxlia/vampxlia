@@ -28,7 +28,7 @@ I'm **Emiliana**, a recent **Informatics and Multimedia Engineering**
 graduate and aspiring Software Engineer.
 
 I enjoy working across the stack and moving between different kinds of
-problems — from designing backend systems and web applications to building
+problems, from designing backend systems and web applications to building
 mobile experiences and experimenting with game development.
 
 What I enjoy most about software is the creative process behind it:

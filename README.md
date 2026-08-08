@@ -5,11 +5,7 @@
 
 ### Software Engineer · Digital Artist · Full-Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+software+as+a+creative+medium.;Full-stack+developer+%7C+Problem+solver;Turning+ideas+into+things+that+work.;Currently+looking+for+my+next+opportunity." alt="Typing SVG" />
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-vampxlia-181717?style=for-the-badge&logo=github)](https://github.com/vampxlia)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+software+as+a+creative+medium.;Full-stack+developer+%7C+Problem+solver;Turning+ideas+into+things+that+work." alt="Typing SVG" />
 
 </div>
 
@@ -17,7 +13,6 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│                                                              │
 │   $ whoami                                                   │
 │                                                              │
 │   emiliana                                                   │
@@ -26,7 +21,6 @@
 │   > building software as a form of expression                │
 │   > learning by making                                       │
 │   > currently looking for a place to build cool things       │
-│                                                              │
 └──────────────────────────────────────────────────────────────┘
 ````
 
@@ -127,16 +121,14 @@ and technology.
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│                                                             │
 │  NOW EXPLORING                                              │
 │                                                             │
 │  ██████████████████████  Full-Stack Development             │
-│  ████████████████░░░░░░  Backend Architecture               │
+│  ███████████████████░░░  Backend Architecture               │
 │  ██████████████░░░░░░░░  Mobile Development                 │
-│  ████████████░░░░░░░░░░  Game Development                   │                │
+│  ████████████░░░░░░░░░░  Game Development                   │
 │  ████████░░░░░░░░░░░░░░  Embedded Systems / Arduino         │         
 │  ██████████░░░░░░░░░░░░  Digital Art & 3D                   │
-│                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -150,14 +142,14 @@ the technologies I experiment with, and the problems I learn to solve.
 ## `~/outside-the-terminal`
 
 ```text
-       ╭───────────────╮
-       │   OFFLINE     │
-       ╰───────────────╯
+╭───────────────╮
+│   OFFLINE     │
+╰───────────────╯
 
-       🎨  drawing
-       🧊  3D modelling
-       🔌  Arduino
-       🎮  gaming
+🎨  drawing
+🧊  3D modelling
+🔌  Arduino
+🎮  gaming
 ```
 
 I spend a lot of my free time making things that have nothing to do with
@@ -171,27 +163,21 @@ Which, ironically, usually ends up giving me ideas for software.
 
 <div align="center">
 
-### *"Software is a medium."*
-
-I want to use it creatively.
-
 </div>
 
 For me, programming is another creative medium. I enjoy the process of taking
 an idea that exists only in my head and turning it into something that
 actually works.
 
----
-
 <div align="center">
 
 ```text
 ┌─────────────────────────────────────────────┐
-│                                             │
-│       BUILD  ·  LEARN  ·  EXPERIMENT       │
-│                                             │
+│       BUILD  ·  LEARN  ·  EXPERIMENT        │
 └─────────────────────────────────────────────┘
 ```
+
+---
 
 **Thanks for visiting.**
 

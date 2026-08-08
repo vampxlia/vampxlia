@@ -12,17 +12,15 @@
 ---
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│   $ whoami                                                   │
-│                                                              │
-│   emiliana                                                   │
-│   software engineer + digital artist                         │
-│                                                              │
-│   > building software as a form of expression                │
-│   > learning by making                                       │
-│   > currently looking for a place to build cool things       │
-└──────────────────────────────────────────────────────────────┘
-````
+$ whoami                                                   
+
+emiliana                                                   
+software engineer + digital artist                         
+
+> building software as a form of expression                
+> learning by making                                       
+> currently looking for a place to build cool things       
+```
 
 ## `~/about`
 
@@ -120,16 +118,16 @@ and technology.
 ## `~/learning`
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│  NOW EXPLORING                                              │
-│                                                             │
-│  ██████████████████████  Full-Stack Development             │
-│  ███████████████████░░░  Backend Architecture               │
-│  ██████████████░░░░░░░░  Mobile Development                 │
-│  ████████████░░░░░░░░░░  Game Development                   │
-│  ████████░░░░░░░░░░░░░░  Embedded Systems / Arduino         │         
-│  ██████████░░░░░░░░░░░░  Digital Art & 3D                   │
-└─────────────────────────────────────────────────────────────┘
+
+NOW EXPLORING                                              
+
+██████████████████████  Full-Stack Development             
+███████████████████░░░  Backend Architecture               
+██████████████░░░░░░░░  Mobile Development                 
+████████████░░░░░░░░░░  Game Development                   
+████████░░░░░░░░░░░░░░  Embedded Systems / Arduino                
+██████████░░░░░░░░░░░░  Digital Art & 3D                   
+
 ```
 
 I like learning by **building rather than just reading**.

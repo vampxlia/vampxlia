@@ -59,7 +59,7 @@ applications work.
 ### 🎮 Creative Development
 
 Web, mobile and game development are all interesting to me for different
-reasons — especially when technology becomes a medium for creativity.
+reasons, especially when technology becomes a medium for creativity.
 
 </td>
 </tr>
@@ -131,7 +131,7 @@ NOW EXPLORING
 
 I like learning by **building rather than just reading**.
 
-This profile doubles as a record of that process — the things I build,
+This profile doubles as a record of that process, the things I build,
 the technologies I experiment with, and the problems I learn to solve.
 
 --- 

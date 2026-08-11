@@ -66,10 +66,9 @@ reasons — especially when technology becomes a medium for creativity.
 <tr>
 <td width="50%">
 
-### 🔌 Hardware
+### 🔌 Hardware and Low Level Computing
 
-Arduino started as a university class and quickly became something I
-genuinely enjoyed. I like the idea of software escaping the screen and
+Arduino is something I enjoy tinkering with on my free time. I like the idea of software escaping the screen and
 interacting with the physical world.
 
 </td>

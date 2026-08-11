@@ -17,7 +17,7 @@ $ whoami
 emiliana                                                   
 software engineer + digital artist                         
 
-> building software as a form of expression                
+> building software as a form of art and creative medium                
 > learning by making                                       
 > currently looking for a place to build cool things       
 ```
@@ -134,47 +134,7 @@ I like learning by **building rather than just reading**.
 This profile doubles as a record of that process — the things I build,
 the technologies I experiment with, and the problems I learn to solve.
 
----
-
-## `~/outside-the-terminal`
-
-```text
-╭───────────────╮
-│   OFFLINE     │
-╰───────────────╯
-
-🎨  drawing
-🧊  3D modelling
-🔌  Arduino
-🎮  gaming
-```
-
-I spend a lot of my free time making things that have nothing to do with
-software.
-
-Which, ironically, usually ends up giving me ideas for software.
-
----
-
-## `~/philosophy`
-
-<div align="center">
-
-</div>
-
-For me, programming is another creative medium. I enjoy the process of taking
-an idea that exists only in my head and turning it into something that
-actually works.
-
-<div align="center">
-
-```text
-┌─────────────────────────────────────────────┐
-│       BUILD  ·  LEARN  ·  EXPERIMENT        │
-└─────────────────────────────────────────────┘
-```
-
----
+--- 
 
 **Thanks for visiting.**
 
